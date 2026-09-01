@@ -6,4 +6,6 @@ You only need the .py file, the tool will generate a .json for you.
 
 Run it with:
 
-```python internship_tracker.py```
+```
+python internship_tracker.py
+```
