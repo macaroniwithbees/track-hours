@@ -105,7 +105,7 @@ def get_sorted_entries(data):
 
 
 def print_line():
-    """Print a line separator."""
+    """print a line separator."""
 
     print("-" * 70)
 
